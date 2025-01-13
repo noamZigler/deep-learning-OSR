@@ -1,2 +1,3 @@
 1. when loading the combinded dataset, if you shuffle how can it know if it is an mnist or ood?
 2. does the baseline model should be the base for the osr model?
+3. does the baseline model needs to be more accurate?

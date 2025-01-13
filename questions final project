@@ -1,0 +1,1 @@
+1. when loading the combinded dataset, if you shuffle how can it know if it is an mnist or ood?

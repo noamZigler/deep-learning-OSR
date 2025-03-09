@@ -1,3 +1,0 @@
-2. does the baseline model should be the base for the osr model?
-1. המודל בסיס צריך להיות מודל כמה שיותר דומה למודל OSR שלכם, למעט החלקים שהוספת ל OSR. אם, לדוגמא, מודל ה OSR שלכם מבוסס על קלסייפר פשוט + כלל דחייה כלשהו, אז מודל הבייסליין הוא אכן הקלספייר. המטרה היא להבין בכמה נפגעה רמת הדיוק על MNIST כאשר נדרש ממכם גם לדחות דגימות מחוץ להתפלגות.
-3. does the baseline model needs to be more accurate?
